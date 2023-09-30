@@ -13,6 +13,7 @@ Documentation for our chosen API: https://developer.edamam.com/edamam-docs-recip
 <img width="1440" alt="Screen Shot 2023-09-29 at 7 23 46 PM" src="https://github.com/farahmikatii/week3project/assets/144400784/1cc511b4-e3f8-4502-9ecc-608c4e83a020">
 
 # Example Output of Running Java Code
+The Java code below can be found in the root source folder.
 <img width="1440" alt="Image20230930142258" src="https://github.com/farahmikatii/week3project/assets/144400784/b1c05fad-bb48-4d34-a83a-ef53dd6ab7dd">
 
 <img width="1440" alt="Image2" src="https://github.com/farahmikatii/week3project/assets/144400784/85e3018d-7799-41f4-bfc0-c8a9e24770f9">
