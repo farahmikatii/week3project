@@ -20,8 +20,6 @@ public class Main {
             response.close();
         } catch(IOException e) {
             throw new IOException("error");
-
         }
-
     }
 }
