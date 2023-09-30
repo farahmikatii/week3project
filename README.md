@@ -17,7 +17,3 @@ Documentation for our chosen API: https://developer.edamam.com/edamam-docs-recip
 
 <img width="1440" alt="Image2" src="https://github.com/farahmikatii/week3project/assets/144400784/85e3018d-7799-41f4-bfc0-c8a9e24770f9">
 
-# Technical Issues
-
-...
-
